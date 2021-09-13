@@ -22,13 +22,13 @@ Seth and Tom have asked me to help audit the results of an election for their el
 
 *Diana DeGette won the election with 73.8% of the overall votes and 272,892 votes
 
-![Election_Results_Terminal](https://raw.githubusercontent.com/mdwilliams11/Election_Analysis/main/resources/Election_Results_Terminal.png)
+![Election_Results_Terminal](https://raw.githubusercontent.com/mdwilliams11/Election_Analysis/main/Resources/Election_Results_Terminal.png)
 
 
 ## Summary
 This analysis was performed using a python script to read through the election results CSV file.
 
-[The python file can be found here.](https://raw.githubusercontent.com/mdwilliams11/Election_Analysis/main/PyPoll.py)
+[The python file can be found here.](https://raw.githubusercontent.com/mdwilliams11/Election_Analysis/main/PyPoll_Challenge.py)
 
 
 This file could potentially be used to quickly audit future election results. Some of the code references specific columns within the CSV file so any future election would have to account for potential changes to the structure of the election results.
