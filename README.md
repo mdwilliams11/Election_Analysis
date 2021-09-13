@@ -6,21 +6,25 @@ Seth and Tom have asked me to help audit the results of an election for their el
 
 ## Election Audit Results
 
-*369,711 total votes were cast in this election
+-369,711 total votes were cast in this election
 
-*Votes and percentage of votes for each county
-	*Jefferson: 38,885 votes at 10.5% of overall votes
-	*Denver: 306,055 votes at 82.8% of overall votes
-	*Arapahoe: 24,801 votes at 6.7% of overall votes
+-Votes and percentage of votes for each county
+	-Jefferson: 38,885 votes at 10.5% of overall votes
+	
+	-Denver: 306,055 votes at 82.8% of overall votes
+	
+	-Arapahoe: 24,801 votes at 6.7% of overall votes
 
-*Denver county has the largest number of votes
+-Denver county has the largest number of votes
 
-*Votes and percentage of votes for each candidate
-	*Charles Casper Stockham: 85,213 votes at 23.0% of overall votes
-	*Diana DeGette: 272,892 votes at 73.8% of overall votes
-	*Raymon Anthony Doane: 11,606 votes at 3.1% of overall votes
+-Votes and percentage of votes for each candidate
+	-Charles Casper Stockham: 85,213 votes at 23.0% of overall votes
+	
+	-Diana DeGette: 272,892 votes at 73.8% of overall votes
+	
+	-Raymon Anthony Doane: 11,606 votes at 3.1% of overall votes
 
-*Diana DeGette won the election with 73.8% of the overall votes and 272,892 votes
+-Diana DeGette won the election with 73.8% of the overall votes and 272,892 votes
 
 ![Election_Results_Terminal](https://raw.githubusercontent.com/mdwilliams11/Election_Analysis/main/Resources/Election_Results_Terminal.png)
 
